@@ -1,0 +1,151 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Reminder on/off,Reminder Date,Reminder Time,Meeting Organizer,Required Attendees,Optional Attendees,Meeting Resources,Billing Information,Categories,Description,Location,Mileage,Priority,Private,Sensitivity,Show time as
+Transition,1/5/2024,12:00:00 AM,1/6/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional," 
+",,,Normal,FALSE,Normal,3
+Transition,1/6/2024,12:00:00 AM,1/7/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional," 
+",,,Normal,FALSE,Normal,3
+Weekend,1/7/2024,12:00:00 AM,1/8/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend," 
+",,,Normal,FALSE,Normal,3
+M1,1/8/2024,12:00:00 AM,1/9/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day," 
+",,,Normal,FALSE,Normal,3
+T1,1/9/2024,12:00:00 AM,1/10/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M2 - ECDT SSOC,1/10/2024,12:00:00 AM,1/11/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T2,1/11/2024,12:00:00 AM,1/12/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M3,1/12/2024,12:00:00 AM,1/13/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,1/13/2024,12:00:00 AM,1/14/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,1/14/2024,12:00:00 AM,1/15/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+MLK Holiday - No Classes,1/15/2024,12:00:00 AM,1/16/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Holiday,,,,Normal,FALSE,Normal,3
+T3,1/16/2024,12:00:00 AM,1/17/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M4,1/17/2024,12:00:00 AM,1/18/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T4,1/18/2024,12:00:00 AM,1/19/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M5,1/19/2024,12:00:00 AM,1/20/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,1/20/2024,12:00:00 AM,1/21/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,1/21/2024,12:00:00 AM,1/22/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+T5,1/22/2024,12:00:00 AM,1/23/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M6,1/23/2024,12:00:00 AM,1/24/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T6,1/24/2024,12:00:00 AM,1/25/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M7,1/25/2024,12:00:00 AM,1/26/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T7,1/26/2024,12:00:00 AM,1/27/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Weekend,1/27/2024,12:00:00 AM,1/28/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,1/28/2024,12:00:00 AM,1/29/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M8,1/29/2024,12:00:00 AM,1/30/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T8,1/30/2024,12:00:00 AM,1/31/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M9,1/31/2024,12:00:00 AM,2/1/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T9,2/1/2024,12:00:00 AM,2/2/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M10,2/2/2024,12:00:00 AM,2/3/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,2/3/2024,12:00:00 AM,2/4/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,2/4/2024,12:00:00 AM,2/5/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+T10,2/5/2024,12:00:00 AM,2/6/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M11,2/6/2024,12:00:00 AM,2/7/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T11 - ECDT SSOC,2/7/2024,12:00:00 AM,2/8/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M12,2/8/2024,12:00:00 AM,2/9/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T12,2/9/2024,12:00:00 AM,2/10/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Weekend,2/10/2024,12:00:00 AM,2/11/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,2/11/2024,12:00:00 AM,2/12/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M13,2/12/2024,12:00:00 AM,2/13/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T13,2/13/2024,12:00:00 AM,2/14/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M14,2/14/2024,12:00:00 AM,2/15/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T14,2/15/2024,12:00:00 AM,2/16/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M15,2/16/2024,12:00:00 AM,2/17/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,2/17/2024,12:00:00 AM,2/18/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,2/18/2024,12:00:00 AM,2/19/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+President's Day-No Classes,2/19/2024,12:00:00 AM,2/20/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Holiday,,,,Normal,FALSE,Normal,3
+T15,2/20/2024,12:00:00 AM,2/21/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M16,2/21/2024,12:00:00 AM,2/22/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T16,2/22/2024,12:00:00 AM,2/23/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+NCLS,2/22/2024,12:00:00 AM,2/23/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+NCLS - No Classes,2/23/2024,12:00:00 AM,2/24/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+Weekend,2/24/2024,12:00:00 AM,2/25/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,2/25/2024,12:00:00 AM,2/26/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M17,2/26/2024,12:00:00 AM,2/27/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T17,2/27/2024,12:00:00 AM,2/28/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M18,2/28/2024,12:00:00 AM,2/29/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T18,2/29/2024,12:00:00 AM,3/1/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M19,3/1/2024,12:00:00 AM,3/2/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,3/2/2024,12:00:00 AM,3/3/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,3/3/2024,12:00:00 AM,3/4/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+T19,3/4/2024,12:00:00 AM,3/5/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M20,3/5/2024,12:00:00 AM,3/6/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T20,3/6/2024,12:00:00 AM,3/7/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M21,3/7/2024,12:00:00 AM,3/8/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T21,3/8/2024,12:00:00 AM,3/9/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Weekend,3/9/2024,12:00:00 AM,3/10/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,3/10/2024,12:00:00 AM,3/11/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M22,3/11/2024,12:00:00 AM,3/12/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T22,3/12/2024,12:00:00 AM,3/13/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M23 - ECDT SSOC,3/13/2024,12:00:00 AM,3/14/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T23,3/14/2024,12:00:00 AM,3/15/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Recognition (LMD Thurs - Saturday evening),3/14/2024,12:00:00 AM,3/15/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+Recognition - No Classes,3/15/2024,12:00:00 AM,3/16/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+Recognition,3/16/2024,12:00:00 AM,3/17/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+Weekend,3/17/2024,12:00:00 AM,3/18/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M24,3/18/2024,12:00:00 AM,3/19/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T24,3/19/2024,12:00:00 AM,3/20/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M25,3/20/2024,12:00:00 AM,3/21/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T25,3/21/2024,12:00:00 AM,3/22/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M26,3/22/2024,12:00:00 AM,3/23/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Spring Break,3/23/2024,12:00:00 AM,4/1/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+T26,4/1/2024,12:00:00 AM,4/2/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M27,4/2/2024,12:00:00 AM,4/3/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T27,4/3/2024,12:00:00 AM,4/4/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M28,4/4/2024,12:00:00 AM,4/5/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T28,4/5/2024,12:00:00 AM,4/6/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Weekend,4/6/2024,12:00:00 AM,4/7/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,4/7/2024,12:00:00 AM,4/8/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M29,4/8/2024,12:00:00 AM,4/9/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T29,4/9/2024,12:00:00 AM,4/10/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M30,4/10/2024,12:00:00 AM,4/11/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T30,4/11/2024,12:00:00 AM,4/12/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M31,4/12/2024,12:00:00 AM,4/13/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,4/13/2024,12:00:00 AM,4/14/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,4/14/2024,12:00:00 AM,4/15/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+T31,4/15/2024,12:00:00 AM,4/16/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M32,4/16/2024,12:00:00 AM,4/17/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T32 - ECDT SSOC,4/17/2024,12:00:00 AM,4/18/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M33,4/18/2024,12:00:00 AM,4/19/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T33,4/19/2024,12:00:00 AM,4/20/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Weekend,4/20/2024,12:00:00 AM,4/21/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,4/21/2024,12:00:00 AM,4/22/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M34,4/22/2024,12:00:00 AM,4/23/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T34,4/23/2024,12:00:00 AM,4/24/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M35,4/24/2024,12:00:00 AM,4/25/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T35,4/25/2024,12:00:00 AM,4/26/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Supt' Day - No Classes,4/26/2024,12:00:00 AM,4/27/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Institutional,,,,Normal,FALSE,Normal,3
+Weekend,4/27/2024,12:00:00 AM,4/28/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,4/28/2024,12:00:00 AM,4/29/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+M36,4/29/2024,12:00:00 AM,4/30/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T36,4/30/2024,12:00:00 AM,5/1/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M37,5/1/2024,12:00:00 AM,5/2/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T37,5/2/2024,12:00:00 AM,5/3/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M38,5/3/2024,12:00:00 AM,5/4/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+Weekend,5/4/2024,12:00:00 AM,5/5/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Weekend,5/5/2024,12:00:00 AM,5/6/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+T38,5/6/2024,12:00:00 AM,5/7/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M39,5/7/2024,12:00:00 AM,5/8/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T39,5/8/2024,12:00:00 AM,5/9/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+M40,5/9/2024,12:00:00 AM,5/10/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,M-Day,,,,Normal,FALSE,Normal,3
+T40,5/10/2024,12:00:00 AM,5/11/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,T-Day,,,,Normal,FALSE,Normal,3
+Dean's Weekend,5/11/2024,12:00:00 AM,5/12/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Dean's Weekend,5/12/2024,12:00:00 AM,5/13/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Weekend,,,,Normal,FALSE,Normal,3
+Finals 1&2&3,5/13/2024,12:00:00 AM,5/14/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Finals,,,,Normal,FALSE,Normal,3
+Finals 4&5&6,5/14/2024,12:00:00 AM,5/15/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Finals,,,,Normal,FALSE,Normal,3
+Finals 7&8&9,5/15/2024,12:00:00 AM,5/16/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Finals,,,,Normal,FALSE,Normal,3
+Finals 10&11&12,5/16/2024,12:00:00 AM,5/17/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Finals,,,,Normal,FALSE,Normal,3
+Finals 13&14,5/17/2024,12:00:00 AM,5/18/2024,12:00:00 AM,TRUE,FALSE,,,,,,,,Finals,,,,Normal,FALSE,Normal,3
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
